@@ -1,0 +1,29 @@
+[33mcommit 1397c3dd4811c8492c40d5e72d9def9edea27f48[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: alex55688 <N1116801@ntub.edu.tw>
+Date:   Tue Jul 30 23:30:32 2024 +0800
+
+    add .gitignore
+
+[33mcommit 23f7ab660c93f37baccf9837cc296356e3388edb[m
+Author: alex55688 <N1116801@ntub.edu.tw>
+Date:   Tue Jul 30 23:09:49 2024 +0800
+
+    add test2.txt
+
+[33mcommit a9475cdb9ff1348af962ce37c52c50ce1759b064[m
+Author: alex55688 <N1116801@ntub.edu.tw>
+Date:   Tue Jul 30 23:03:48 2024 +0800
+
+    Modified README.md
+
+[33mcommit cb689550b019160610563823a67af24835a4218a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: alex55688 <113755955+alex55688@users.noreply.github.com>
+Date:   Thu Jul 25 15:39:30 2024 +0800
+
+    Create test.py
+
+[33mcommit 805dc35ec0b9575eb86634d6190c9602323d02ba[m
+Author: alex55688 <113755955+alex55688@users.noreply.github.com>
+Date:   Thu Jul 25 15:33:44 2024 +0800
+
+    Initial commit
